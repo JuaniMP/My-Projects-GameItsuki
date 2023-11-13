@@ -8,7 +8,7 @@ These is my project and it's programming:
 **Juanita Mejia**
 
 * [LinKedIn] (https://www.linkedin.com/in/juanimp/)
-* [Google-Drive]-All project and dll of the game: (https://drive.google.com/file/d/15G7luGnc8uxttE1YzIapm7S-3Bv3Bzbu/view?usp=drive_link)
+* [Google-Drive]-All project and dll of the game: (https://drive.google.com/file/d/15G7luGnc8uxttE1YzIapm7S-3Bv3Bzbu/view?usp=drive_link,https://drive.google.com/drive/folders/14PuTOU7buUm-iYh-5cxYTh3WsBwkSVAr?usp=drive_link)
 
 ## Facility
 Please note that to use this project to open it you must:
